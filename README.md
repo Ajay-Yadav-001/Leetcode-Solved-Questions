@@ -22,5 +22,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1518-water-bottles) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/2525-categorize-box-according-to-criteria) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
