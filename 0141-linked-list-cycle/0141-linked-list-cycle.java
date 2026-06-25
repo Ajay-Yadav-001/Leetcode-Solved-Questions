@@ -1,18 +1,21 @@
-import java.util.HashSet;
-
 public class Solution {
     public boolean hasCycle(ListNode head) {
 
-        HashSet<ListNode> set = new HashSet<>();
+        if(head == null || head.next == null) {
+            return false;
+        }
 
-        while(head != null) {
+        ListNode slow = head;
+        ListNode fast = head;
 
-            if(set.contains(head)) {
+        while(fast != null && fast.next != null) {
+
+            slow = slow.next;
+            fast = fast.next.next;
+
+            if(slow == fast) {
                 return true;
             }
-
-            set.add(head);
-            head = head.next;
         }
 
         return false;
