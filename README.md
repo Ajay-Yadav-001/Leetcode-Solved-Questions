@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
 | ------- |
