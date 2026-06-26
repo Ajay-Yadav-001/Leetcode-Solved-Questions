@@ -69,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0412-fizz-buzz) |
+| [0459-repeated-substring-pattern](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0459-repeated-substring-pattern) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0459-repeated-substring-pattern) |
 ## Array
 |  |
 | ------- |
