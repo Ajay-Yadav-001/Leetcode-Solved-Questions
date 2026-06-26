@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0007-reverse-integer) |
 | [0326-power-of-three](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1518-water-bottles](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1518-water-bottles) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1518-water-bottles) |
 ## Recursion
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
 | ------- |
