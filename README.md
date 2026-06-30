@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0459-repeated-substring-pattern) |
