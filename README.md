@@ -261,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0011-container-with-most-water) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
