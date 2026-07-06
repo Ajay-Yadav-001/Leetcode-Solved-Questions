@@ -19,16 +19,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0733-flood-fill](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Math
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0206-reverse-linked-list) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0542-01-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0733-flood-fill) |
 ## Combinatorics
