@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1021-remove-outermost-parentheses) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0394-decode-string) |
 ## Dynamic Programming
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
