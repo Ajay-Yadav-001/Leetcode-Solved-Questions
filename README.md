@@ -287,4 +287,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0184-department-highest-salary) |
+| [1341-movie-rating](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1341-movie-rating) |
 <!---LeetCode Topics End-->
