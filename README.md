@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0572-subtree-of-another-tree](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0200-number-of-islands](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
+| [0572-subtree-of-another-tree](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0572-subtree-of-another-tree](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0796-rotate-string) |
 ## Array
 |  |
@@ -288,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0184-department-highest-salary](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0184-department-highest-salary) |
 | [1341-movie-rating](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1341-movie-rating) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
