@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0572-subtree-of-another-tree](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0572-subtree-of-another-tree](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0733-flood-fill) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0572-subtree-of-another-tree](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Math
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0796-rotate-string) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1021-remove-outermost-parentheses](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
 |  |
@@ -308,4 +312,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0113-path-sum-ii) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0988-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
