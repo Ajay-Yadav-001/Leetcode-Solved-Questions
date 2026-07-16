@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0113-path-sum-ii](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0572-subtree-of-another-tree](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0113-path-sum-ii](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0200-number-of-islands](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0113-path-sum-ii](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0572-subtree-of-another-tree](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
@@ -301,4 +304,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0046-permutations) |
+| [0113-path-sum-ii](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
