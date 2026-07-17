@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1518-water-bottles](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1518-water-bottles) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0542-01-matrix) |
+| [0682-baseball-game](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
