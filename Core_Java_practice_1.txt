@@ -1,0 +1,40 @@
+// TODO: Create an class called Employee
+class Employee{
+        String name;
+        double salary;
+    
+        public Employee(String name, double salary){
+            this.name = name;
+            this.salary = salary;
+        }
+        
+        public void getDetails(){
+            System.out.println("Name: " + name + ", " + "Salary: " + salary);
+        }
+}
+
+class Manager extends Employee{
+        String department;
+        public Manager(String name, double salary, String dep){
+            super(name, salary);
+            department = dep;
+        }
+        public void getDetails(){
+            System.out.println("Name: " + name + ", " + "Salary: " + salary +  ", " + "Department: " + department);
+        }
+}
+
+// TODO: Create a class Manager that:
+// - Extends Employee
+
+
+public class Exercise {
+    public static void main(String[] args) {
+        // TODO: Create Employee and Manager objects
+        Employee emp = new Employee("Alice", 50000.0);
+        Manager man = new Manager("Bob", 80000.0, "IT");
+        // TODO: Print their details using getDetails()
+        emp.getDetails();
+        man.getDetails();
+    }
+}
