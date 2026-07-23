@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0867-transpose-matrix) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0290-word-pattern) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Monotonic Stack
