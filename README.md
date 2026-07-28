@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0867-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1929-concatenation-of-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1929-concatenation-of-array) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0389-find-the-difference) |
+| [0912-sort-an-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0912-sort-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
@@ -271,15 +273,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -354,4 +359,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0204-count-primes) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
