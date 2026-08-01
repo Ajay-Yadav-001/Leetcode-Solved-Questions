@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0997-find-the-town-judge) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1929-concatenation-of-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0496-next-greater-element-i) |
+| [0997-find-the-town-judge](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0997-find-the-town-judge) |
 ## Sorting
 |  |
 | ------- |
@@ -371,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0912-sort-an-array) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
