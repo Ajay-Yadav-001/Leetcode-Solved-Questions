@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0785-is-graph-bipartite) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0785-is-graph-bipartite) |
 ## Linked List
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
 ## Combinatorics
 |  |
@@ -376,5 +379,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
