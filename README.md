@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0412-fizz-buzz) |
+| [0877-stone-game](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0062-unique-paths) |
 | [0097-interleaving-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0097-interleaving-string) |
 | [0542-01-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0542-01-matrix) |
+| [0877-stone-game](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0997-find-the-town-judge) |
@@ -388,4 +391,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0210-course-schedule-ii) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
