@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0796-rotate-string) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1021-remove-outermost-parentheses](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1021-remove-outermost-parentheses) |
+| [2942-find-words-containing-character](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/2942-find-words-containing-character) |
 ## String Matching
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1929-concatenation-of-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2942-find-words-containing-character](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
