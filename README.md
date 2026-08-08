@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0097-interleaving-string) |
 | [0542-01-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0877-stone-game) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
