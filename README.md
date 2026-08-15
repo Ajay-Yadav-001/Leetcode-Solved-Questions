@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0997-find-the-town-judge) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2942-find-words-containing-character](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/2942-find-words-containing-character) |
@@ -410,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0877-stone-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
