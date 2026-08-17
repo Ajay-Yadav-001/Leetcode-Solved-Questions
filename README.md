@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0997-find-the-town-judge) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1929-concatenation-of-array) |
