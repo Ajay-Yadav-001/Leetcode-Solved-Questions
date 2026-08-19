@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2942-find-words-containing-character](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/2942-find-words-containing-character) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
+| [1672-richest-customer-wealth](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
