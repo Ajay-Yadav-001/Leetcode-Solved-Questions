@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1518-water-bottles](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1518-water-bottles) |
+| [2485-find-the-pivot-integer](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/2485-find-the-pivot-integer) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/2525-categorize-box-according-to-criteria) |
 ## Simulation
 |  |
@@ -429,4 +430,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1480-running-sum-of-1d-array) |
+| [2485-find-the-pivot-integer](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
