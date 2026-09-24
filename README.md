@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0097-interleaving-string) |
+| [0435-non-overlapping-intervals](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1137-n-th-tribonacci-number) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0542-01-matrix) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0435-non-overlapping-intervals) |
 ## Database
 |  |
 | ------- |
