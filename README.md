@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0018-4sum) |
@@ -438,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/2485-find-the-pivot-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
